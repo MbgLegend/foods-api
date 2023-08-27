@@ -1,0 +1,620 @@
+{
+  "categories": [
+    "Pasta",
+    "Chicken",
+    "Side Dishes",
+    "Seafood",
+    "Salads",
+    "Stews",
+    "Breakfast",
+    "Barbecue",
+    "Vegetarian",
+    "Soups",
+    "Fish",
+    "Risotto",
+    "Desserts",
+    "Burgers"
+  ],
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Classic Spaghetti Carbonara",
+      "Image": "https://www.amusingmaria.com/wp-content/uploads/2018/07/Filipino-Spaghetti-a-new-recipe-thats-a-delicious-mix-of-sweet-and-tart-flavors-3.jpg",
+      "Credits": "© 2018 amusingmaria",
+      "category": "Pasta",
+      "categoryType": "Main Course",
+      "description": "A timeless Italian pasta dish made with eggs, Pecorino Romano cheese, pancetta, and black pepper.",
+      "rating": 4.7,
+      "totalCalories": 450,
+      "grams": 300,
+      "price": 12.99,
+      "comments": [
+        {
+          "username": "Foodie21",
+          "comment": "Absolutely delicious! I make this all the time now.",
+          "rating": 5
+        },
+        {
+          "username": "PastaLover",
+          "comment": "Simple yet incredibly satisfying.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Grilled Lemon Herb Chicken",
+      "Image": "https://images.squarespace-cdn.com/content/v1/642bcd7ab5f0a25f1e44db41/1691522959920-4UDPTHI5WPFF0XMNWZOV/Recipe+-+Grilled+Lemon+Herb+Chicken+Salad.jpeg",
+      "Credits": "Getty Images/iStockphoto",
+      "category": "Chicken",
+      "categoryType": "Main Course",
+      "description": "Tender chicken marinated in a zesty blend of lemon, herbs, and garlic, then grilled to perfection.",
+      "rating": 4.9,
+      "totalCalories": 320,
+      "grams": 200,
+      "price": 14.99,
+      "comments": [
+        {
+          "username": "GrillMaster",
+          "comment": "The flavors are amazing! A new favorite in my family.",
+          "rating": 5
+        },
+        {
+          "username": "HealthyEater",
+          "comment": "Great protein option with lots of freshness.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Creamy Garlic Mashed Potatoes",
+      "Image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2023_13/1979085/garlic-mashed-potatos-square-te-230328.jpg",
+      "Credits": "Getty Images/iStockphoto",
+      "category": "Side Dishes",
+      "categoryType": "Side Dish",
+      "description": "Velvety smooth mashed potatoes with a rich garlic flavor, perfect as a side dish.",
+      "rating": 4.5,
+      "totalCalories": 250,
+      "grams": 150,
+      "price": 8.99,
+      "comments": [
+        {
+          "username": "PotatoFanatic",
+          "comment": "So creamy and flavorful! A comfort food dream.",
+          "rating": 5
+        },
+        {
+          "username": "FlavorQueen",
+          "comment": "Garlic lovers, rejoice! These potatoes are a must-try.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Spicy Shrimp Tacos",
+      "Image": "https://images.squarespace-cdn.com/content/v1/5508dbfce4b014ff8cf57f2f/1594445869214-AFE56B2EENWONXY1Z63P/Pan+Seared+Shrimp+Tacos+Recipe",
+      "Credits": "Leena Butt",
+      "category": "Seafood",
+      "categoryType": "Main Course",
+      "description": "Juicy shrimp seasoned with a blend of spices, served in warm tortillas with fresh salsa and avocado.",
+      "rating": 4.8,
+      "totalCalories": 280,
+      "grams": 220,
+      "price": 13.99,
+      "comments": [
+        {
+          "username": "SeafoodLover",
+          "comment": "Incredible combination of flavors and textures.",
+          "rating": 5
+        },
+        {
+          "username": "TacoTuesday",
+          "comment": "Spice level was just right! Tacos disappeared in seconds.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Caprese Salad",
+      "Image": "https://www.cookingonthefrontburners.com/wp-content/uploads/2020/08/Heirloom-Caprese-Tomato-Salad-feat.jpg",
+      "Credits": "Deb Attinella",
+      "category": "Salads",
+      "categoryType": "Appetizer",
+      "description": "A light and refreshing salad featuring ripe tomatoes, fresh mozzarella, basil, and balsamic glaze.",
+      "rating": 4.6,
+      "totalCalories": 180,
+      "grams": 150,
+      "price": 7.99,
+      "comments": [
+        {
+          "username": "SaladEnthusiast",
+          "comment": "A classic that never gets old. Perfect for summer.",
+          "rating": 5
+        },
+        {
+          "username": "FreshFlavors",
+          "comment": "Simple, elegant, and bursting with freshness.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Homestyle Beef Stew",
+      "Image": "https://omnivorescookbook.com/wp-content/uploads/2023/05/230502_Instant-Pot-Curry-Beef-Stew_550-500x500.jpg",
+      "Credits": "Omnivore's Cookbook",
+      "category": "Stews",
+      "categoryType": "Main Course",
+      "description": "Hearty stew with tender beef, potatoes, carrots, and a savory broth, cooked to perfection.",
+      "rating": 4.7,
+      "totalCalories": 320,
+      "grams": 350,
+      "price": 15.99,
+      "comments": [
+        {
+          "username": "StewLover23",
+          "comment": "Just like grandma used to make. Ultimate comfort food.",
+          "rating": 5
+        },
+        {
+          "username": "ComfortCraver",
+          "comment": "Warms you up from the inside out. A hug in a bowl.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Lemon Blueberry Pancakes",
+      "Image": "https://data.thefeedfeed.com/static/2023/04/14/16814998076439a69f156c7.jpg",
+      "Credits": "TheFeedFeed",
+      "category": "Breakfast",
+      "categoryType": "Dessert",
+      "description": "Fluffy pancakes infused with fresh lemon zest and juicy blueberries. A breakfast delight.",
+      "rating": 4.9,
+      "totalCalories": 280,
+      "grams": 200,
+      "price": 9.99,
+      "comments": [
+        {
+          "username": "PancakeQueen",
+          "comment": "The lemon adds such a bright twist to the classic pancakes.",
+          "rating": 5
+        },
+        {
+          "username": "BlueberryFan",
+          "comment": "Perfectly balanced sweetness. A new weekend tradition.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Mouthwatering BBQ Ribs",
+      "Image": "https://www.corriecooks.com/wp-content/uploads/2023/05/BBQ-Ribs.jpg",
+      "Credits": "Shutterstock",
+      "category": "Barbecue",
+      "categoryType": "Main Course",
+      "description": "Tender ribs coated in a smoky barbecue sauce, slow-cooked for an irresistible taste.",
+      "rating": 4.8,
+      "totalCalories": 380,
+      "grams": 300,
+      "price": 17.99,
+      "comments": [
+        {
+          "username": "BBQMaster",
+          "comment": "Finger-licking good! The meat falls off the bone.",
+          "rating": 5
+        },
+        {
+          "username": "SauceBoss",
+          "comment": "That BBQ sauce is a game-changer. Can't get enough.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Vegetable Stir-Fry",
+      "Image": "https://media.istockphoto.com/id/854915664/photo/chicken-meat-with-vegetable-in-bowl-stir-fry-on-wok.jpg?s=612x612&w=0&k=20&c=BmgqXQBeg3dWhGeNgPH0OjQv-PHkwDipBL53mciEAAw=",
+      "Credits": "Getty Images/iStockphoto",
+      "category": "Vegetarian",
+      "categoryType": "Main Course",
+      "description": "A colorful medley of fresh vegetables stir-fried to perfection in a savory sauce.",
+      "rating": 4.6,
+      "totalCalories": 220,
+      "grams": 250,
+      "price": 10.99,
+      "comments": [
+        {
+          "username": "VeggieLover",
+          "comment": "So many veggies in one dish! A quick and healthy meal.",
+          "rating": 5
+        },
+        {
+          "username": "WokMagic",
+          "comment": "Easy way to enjoy the vibrant flavors of vegetables.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Creamy Tomato Basil Soup",
+      "Image": "https://images.startsat60.com/wp-content/uploads/20230515141000/GettyImages-1430341470-1.jpg",
+      "Credits": "Getty Images",
+      "category": "Soups",
+      "categoryType": "Appetizer",
+      "description": "Smooth tomato soup infused with the richness of cream and the aromatic essence of fresh basil.",
+      "rating": 4.5,
+      "totalCalories": 180,
+      "grams": 300,
+      "price": 6.99,
+      "comments": [
+        {
+          "username": "SoupAdventurer",
+          "comment": "A classic soup with a twist. Comfort in a bowl.",
+          "rating": 5
+        },
+        {
+          "username": "TomatoFanatic",
+          "comment": "The creaminess and basil elevate this to a whole new level.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Honey Mustard Glazed Salmon",
+      "Image": "https://data.thefeedfeed.com/recommended/post_3631520.jpg",
+      "Credits": "TheFeedFeed",
+      "category": "Fish",
+      "categoryType": "Main Course",
+      "description": "Flaky salmon fillet glazed with a harmonious blend of honey and mustard, baked to perfection.",
+      "rating": 4.7,
+      "totalCalories": 280,
+      "grams": 200,
+      "price": 16.99,
+      "comments": [
+        {
+          "username": "SalmonLover",
+          "comment": "The glaze is a game-changer! Perfectly balanced flavors.",
+          "rating": 5
+        },
+        {
+          "username": "HealthNut",
+          "comment": "Protein-packed and delicious. A must-try for salmon enthusiasts.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Mushroom Risotto",
+      "Image": "https://data.thefeedfeed.com/static/2020/08/23/15981565315f41eef32c8c9/630x630.jpg",
+      "Credits": "TheFeedFeed",
+      "category": "Risotto",
+      "categoryType": "Main Course",
+      "description": "Creamy risotto infused with earthy mushrooms, Parmesan cheese, and a hint of white wine.",
+      "rating": 4.6,
+      "totalCalories": 320,
+      "grams": 250,
+      "price": 11.99,
+      "comments": [
+        {
+          "username": "RisottoFan",
+          "comment": "Each spoonful is a burst of comfort and flavor. Love the mushrooms.",
+          "rating": 5
+        },
+        {
+          "username": "FoodExplorer",
+          "comment": "Risotto done right! Creamy and savory with a touch of elegance.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Fresh Fruit Parfait",
+      "Image": "https://cleanfoodcrush.com/wp-content/uploads/2023/07/Overnight-Oatmeal-Fruit-Parfaits-Recipe.jpg",
+      "Credits": "yumcreative.com",
+      "category": "Desserts",
+      "categoryType": "Dessert",
+      "description": "Layers of colorful fresh fruits, yogurt, and granola create a delightful and healthy parfait.",
+      "rating": 4.8,
+      "totalCalories": 220,
+      "grams": 180,
+      "price": 9.99,
+      "comments": [
+        {
+          "username": "FruitLover",
+          "comment": "A guilt-free indulgence. The combination of textures is fantastic.",
+          "rating": 5
+        },
+        {
+          "username": "YogurtEnthusiast",
+          "comment": "Perfect for breakfast or dessert. So refreshing!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Garlic Butter Shrimp Pasta",
+      "Image": "https://media.istockphoto.com/id/483571809/photo/shrimp-scampi.jpg?s=612x612&w=0&k=20&c=D_paNG9R_P8snI9p-gxxHVqhFC3r7v3dDq7b7L5jrgo=",
+      "Credits": "LauriPatterson",
+      "category": "Pasta",
+      "categoryType": "Main Course",
+      "description": "Luscious pasta dish featuring succulent shrimp sautéed in garlic butter and served with al dente pasta.",
+      "rating": 4.9,
+      "totalCalories": 380,
+      "grams": 300,
+      "price": 14.99,
+      "comments": [
+        {
+          "username": "PastaParadise",
+          "comment": "Garlic butter and shrimp were meant to be together. A true indulgence.",
+          "rating": 5
+        },
+        {
+          "username": "SeafoodPastaFan",
+          "comment": "Creamy and flavorful. This dish exceeds expectations.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Mediterranean Quinoa Salad",
+      "Image": "https://www.heinens.com/wp-content/uploads/2020/09/Zesty-Quinoa-Salad_800x550.jpg",
+      "Credits": " Getty Images/iStockphoto ",
+      "category": "Salads",
+      "categoryType": "Appetizer",
+      "description": "Nutrient-packed quinoa salad with cucumbers, tomatoes, olives, feta cheese, and a tangy vinaigrette.",
+      "rating": 4.7,
+      "totalCalories": 250,
+      "grams": 200,
+      "price": 9.99,
+      "comments": [
+        {
+          "username": "HealthyChoices",
+          "comment": "Delicious and wholesome. A Mediterranean delight.",
+          "rating": 5
+        },
+        {
+          "username": "SaladCraver",
+          "comment": "So many flavors in one bite. A refreshing option for a light meal.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Hearty Vegetable Soup",
+      "Image": "https://images.media-allrecipes.com/userphotos/720x405/3757308.jpg",
+      "Credits": "Allrecipes",
+      "category": "Soups",
+      "categoryType": "Main Course",
+      "description": "A comforting soup loaded with a variety of hearty vegetables in a flavorful broth.",
+      "rating": 4.6,
+      "totalCalories": 180,
+      "grams": 300,
+      "price": 7.99,
+      "comments": [
+        {
+          "username": "SoupLover89",
+          "comment": "A bowl of wholesomeness. Hits the spot every time.",
+          "rating": 5
+        },
+        {
+          "username": "VeggieCrusader",
+          "comment": "Nutrient-packed and satisfying. Ideal for a chilly day.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Teriyaki Glazed Salmon",
+      "Image": "https://www.carolinacountry.com/images/2023/06-June/Carolina-Living/Teriyaki-Salmon.jpg",
+      "Credits": "Claudia Totir ",
+      "category": "Fish",
+      "categoryType": "Main Course",
+      "description": "Grilled salmon with a glossy teriyaki glaze served over a bed of steamed rice.",
+      "rating": 4.8,
+      "totalCalories": 320,
+      "grams": 220,
+      "price": 15.99,
+      "comments": [
+        {
+          "username": "SalmonConnoisseur",
+          "comment": "The teriyaki glaze takes this salmon to another level. A treat for the palate.",
+          "rating": 5
+        },
+        {
+          "username": "AsianFlavors",
+          "comment": "Authentic teriyaki taste. This dish is a hit!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Chocolate Lava Cake",
+      "Image": "https://media.istockphoto.com/id/541267186/photo/chocolate-fondant-with-strawberries-and-powdered-sugar.jpg?s=612x612&w=0&k=20&c=6a_-IAUELw0zVMR0vjVtr9UiDg_GAN-S3eowoDGsMhI=",
+      "Credits": "Getty Images/iStockphoto",
+      "category": "Desserts",
+      "categoryType": "Dessert",
+      "description": "Decadent chocolate cake with a gooey molten center, served with a scoop of vanilla ice cream.",
+      "rating": 4.9,
+      "totalCalories": 450,
+      "grams": 150,
+      "price": 10.99,
+      "comments": [
+        {
+          "username": "Chocoholic",
+          "comment": "Pure chocolate bliss. The molten center is a dream.",
+          "rating": 5
+        },
+        {
+          "username": "DessertFanatic",
+          "comment": "Irresistible! The perfect ending to a meal.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Creamy Pesto Pasta with Sun-Dried Tomatoes",
+      "Image": "https://data.thefeedfeed.com/static/2020/09/04/15992090705f51fe6e7155f.jpg",
+      "Credits": "TheFeedFeed",
+      "category": "Pasta",
+      "categoryType": "Main Course",
+      "description": "Creamy pesto pasta adorned with the flavors of sun-dried tomatoes and Parmesan cheese.",
+      "rating": 4.7,
+      "totalCalories": 420,
+      "grams": 300,
+      "price": 13.99,
+      "comments": [
+        {
+          "username": "PestoLover",
+          "comment": "Packed with flavor! The sun-dried tomatoes are a genius addition.",
+          "rating": 5
+        },
+        {
+          "username": "ItalianCuisine",
+          "comment": "A true taste of Italy. Creamy, tangy, and utterly delicious.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Mixed Berry Parfait",
+      "Image": "https://www.sigonasoffice.com/static/media/uploads/parfait.jpeg",
+      "Credits": "Getty Images/iStockphoto",
+      "category": "Desserts",
+      "categoryType": "Dessert",
+      "description": "A delightful medley of mixed berries layered with yogurt and crunchy granola.",
+      "rating": 4.8,
+      "totalCalories": 220,
+      "grams": 180,
+      "price": 8.99,
+      "comments": [
+        {
+          "username": "BerryLover",
+          "comment": "Fresh, light, and bursting with berry goodness.",
+          "rating": 5
+        },
+        {
+          "username": "YogurtAddict",
+          "comment": "A guilt-free treat. Perfect for satisfying a sweet tooth.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Classic Cheese Burger",
+      "Image": "https://media.istockphoto.com/id/627797774/photo/deluxe-quadruple-cheeseburger.jpg?s=612x612&w=0&k=20&c=-5GSfuQrE9qq93u5yaMF8WxwPQ_puxkuf2TrW7pDYws=",
+      "Credits": "Lauri Patterson",
+      "category": "Burgers",
+      "categoryType": "Main Course",
+      "description": "A timeless combination of juicy beef patty, melted cheese, fresh lettuce, tomatoes, and special sauce on a toasted bun.",
+      "rating": 4.6,
+      "totalCalories": 450,
+      "grams": 200,
+      "price": 10.99,
+      "comments": [
+        {
+          "username": "BurgerEnthusiast",
+          "comment": "Mouthwatering burger, every bite is a delight.",
+          "rating": 5
+        },
+        {
+          "username": "CheeseLover89",
+          "comment": "Cheese and beef perfection! Will definitely order again.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Spicy Jalapeno Burger",
+      "Image": "https://media.istockphoto.com/id/951121204/photo/bacon-cheddar-jalapeno-burger.jpg?s=612x612&w=0&k=20&c=fn2RwoohACVmIjmVDhyLo9sapIBWwuPgf7B2m5mmmPA=",
+      "Credits": "Fudio",
+      "category": "Burgers",
+      "categoryType": "Main Course",
+      "description": "A fiery burger featuring a juicy beef patty topped with spicy jalapenos, pepper jack cheese, crisp lettuce, and chipotle mayo.",
+      "rating": 4.8,
+      "totalCalories": 500,
+      "grams": 220,
+      "price": 11.99,
+      "comments": [
+        {
+          "username": "SpiceLover123",
+          "comment": "Absolutely loved the kick of spice in this burger! Perfect for spicy food enthusiasts.",
+          "rating": 5
+        },
+        {
+          "username": "HeatSeeker",
+          "comment": "This burger made my taste buds dance with joy. The jalapenos are just right.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Mushroom Swiss Burger",
+      "Image": "https://media.istockphoto.com/id/539659420/photo/mushroom-swiss-burger.jpg?s=612x612&w=0&k=20&c=jMNa1F6VJmUGvDafmgumvBqtWvFhyIPdgmvcxGKHWiM=",
+      "Credits": "Fudio",
+      "category": "Burgers",
+      "categoryType": "Main Course",
+      "description": "Savory burger featuring a succulent beef patty topped with sautéed mushrooms, melted Swiss cheese, lettuce, and garlic aioli.",
+      "rating": 4.7,
+      "totalCalories": 480,
+      "grams": 210,
+      "price": 12.49,
+      "comments": [
+        {
+          "username": "MushroomFanatic",
+          "comment": "The earthy flavor of mushrooms combined with the richness of Swiss cheese is a match made in burger heaven.",
+          "rating": 5
+        },
+        {
+          "username": "CheeseMelt",
+          "comment": "Melted Swiss cheese and mushrooms take this burger to a whole new level. Delightful!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "BBQ Bacon Ranch Burger",
+      "Image": "https://dfbkuy5licyr9.cloudfront.net/wp-content/uploads/2021/05/iStock-1135580059.jpg?x39145",
+      "Credits": "Getty Images",
+      "category": "Burgers",
+      "categoryType": "Main Course",
+      "description": "A flavor-packed burger featuring a beef patty, crispy bacon, melted cheddar cheese, lettuce, and tangy BBQ ranch sauce.",
+      "rating": 4.9,
+      "totalCalories": 520,
+      "grams": 230,
+      "price": 13.99,
+      "comments": [
+        {
+          "username": "FlavorCraver",
+          "comment": "The combination of BBQ sauce and ranch with bacon is a taste explosion. Highly recommended!",
+          "rating": 5
+        },
+        {
+          "username": "BaconBBQ",
+          "comment": "As a bacon lover, this burger satisfied all my cravings. The BBQ ranch sauce is a winner.",
+          "rating": 4
+        }
+      ]
+    }
+  ]
+}
